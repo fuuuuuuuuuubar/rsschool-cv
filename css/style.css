@@ -1,4 +1,4 @@
-vladik, [04.01.2022 0:03]
+
 *{
 box-sizing:border-box;
 }
@@ -59,10 +59,6 @@ margin-bottom: 200px;
 .nav li + li{
   margin-left: 41px;
 }
-.nav li{
-
-}
-
 .nav a{
   color: #fff;
   text-decoration: none;
@@ -247,7 +243,6 @@ margin-top: 200px;
   line-height: 1.222;
 }
 
-vladik, [04.01.2022 0:03]
 .article-read-more::after{
   display: block;
   content: "";
