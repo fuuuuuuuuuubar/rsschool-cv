@@ -38,3 +38,5 @@ function clearActiveClasses(){
 
 ## English
 _English Level - B2._
+
+https://fuuuuuuuuuubar.github.io/rsschool-cv/
