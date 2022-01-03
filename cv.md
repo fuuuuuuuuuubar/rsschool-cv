@@ -1,3 +1,3 @@
 
 
-https://fuuuuuuuuuubar.github.io/rsschool-cv/cv
+https://fuuuuuuuuuubgitar.github.io/rsschool-cv/cv
